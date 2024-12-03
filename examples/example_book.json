@@ -1,0 +1,33 @@
+{
+    "book_settings": {
+        "art_style": "watercolor painting, soft colors, children's book style",
+        "image_size": {
+            "width": 384,
+            "height": 512
+        }
+    },
+    "cover": {
+        "title": "The Magical Rainbow Rabbit",
+        "author": "Jane Smith",
+        "illustrator": "PagePainter AI",
+        "additional_info": ["For children ages 4-8", "First Edition"],
+        "style_override": "vibrant digital art, magical atmosphere"
+    },
+    "pages": [
+        {
+            "text": "Once upon a time, there was a little rabbit who loved to paint rainbows.",
+            "description": "A cute white rabbit holding a paintbrush, painting a rainbow in a garden",
+            "style_override": null
+        },
+        {
+            "text": "Every morning, he would hop out of his cozy burrow with his magical paintbrush.",
+            "description": "A small rabbit coming out of a flower-covered burrow, holding a glowing paintbrush",
+            "style_override": "dreamy pastel art style, morning light"
+        },
+        {
+            "text": "The other animals watched in wonder as he painted beautiful colors across the sky.",
+            "description": "Various forest animals (squirrels, birds, deer) looking up at a rabbit painting in the sky",
+            "style_override": null
+        }
+    ]
+}

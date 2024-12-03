@@ -1,0 +1,73 @@
+{
+    "book_settings": {
+        "art_style": "whimsical watercolor painting, soft colors, children's book style, anthropomorphic owls with big expressive eyes",
+        "image_size": {
+            "width": 384,
+            "height": 512
+        }
+    },
+    "cover": {
+        "title": "O Papai Coruja",
+        "author": "Felippe e Pedro Moura",
+        "illustrator": "PagePainter AI",
+        "additional_info": [],
+        "style_override": "vibrant digital art, magical atmosphere, featuring a wise-looking owl father with round glasses and his adorable owl family"
+    },
+    "pages": [
+        {
+            "text": "O Papai Coruja - inspirado na obra 'Bebes Corujas'",
+            "description": "A large tree at night, glowing warmly in the moonlight, with a cozy owl nest visible in a hollow of the trunk. A wise-looking owl with glasses perches near the entrance. The style is a magical children's illustration with an emphasis on the owl's distinctive features: large round eyes, feathered body, and heart-shaped face.",
+            "style_override": null
+        },
+        {
+            "text": "Era uma vez, uma família de corujas que morava no tronco de uma árvore: Papai, Mamãe, Pepeu e o bebê Teteu",
+            "description": "An owl family inside their cozy tree hollow nest: the father owl (with round glasses and brown feathers), the mother owl (with softer feathers and gentle eyes), and their two owlets - a 6-year-old owlet and a tiny baby owlet. All have the distinctive owl features: large round eyes, heart-shaped faces, and soft feathers. The scene is warm and inviting, illustrated in a vibrant children's style.",
+            "style_override": null
+        },
+        {
+            "text": "Papai e Pepeu gostavam muito de brincar. Eles desenhavam, jogavam bola, brincavam de blocos, heróis e muitas coisas",
+            "description": "A father owl (with round glasses and brown feathers) playing with his 6-year-old owlet: both have distinctive owl features like large eyes and heart-shaped faces. Toys such as a ball, building blocks, toy cars, paper, and paintbrushes are scattered around their tree hollow nest. The owls' wings are being used like hands. The playful atmosphere is depicted in a cheerful children's illustration.",
+            "style_override": null
+        },
+        {
+            "text": "Papai e Teteu também brincavam muito, todas as manhãs cedinho no tapete de atividades",
+            "description": "A father owl (with round glasses and brown feathers) playing with his baby owlet: they are on an activity mat inside their tree hollow. The baby owlet is tiny and fluffy, with oversized eyes. Toys are scattered around, including a rattle, a baby piano, and a plush dinosaur. Both characters have distinct owl features: feathers, talons, and heart-shaped faces. The scene is lighthearted and tender.",
+            "style_override": null
+        },
+        {
+            "text": "Mas, todos os dias, o Papai Coruja saía para trabalhar.",
+            "description": "A father owl (with round glasses, brown feathers, and wearing a tiny tie) spreading his wings to fly in the morning sky. His two owlets (a 6-year-old and a fluffy baby) watch from their tree hollow nest, their big owl eyes filled with tears. The emotional scene features all characters with distinct owl characteristics: feathered bodies, heart-shaped faces, and expressive round eyes.",
+            "style_override": null
+        },
+        {
+            "text": "E Pepeu perguntava para a sua Mamãe: quando o meu Papai volta? e Teteu falava 'Papa'",
+            "description": "Inside a cozy tree hollow nest, a mother owl (with soft, light-colored feathers and gentle eyes) comforting her two owlets: the 6-year-old owlet Pepeu and the tiny baby owlet Teteu. All have distinctive owl features: round eyes, heart-shaped faces, and soft feathers. The setting is warm and nurturing, with moonlight filtering through the entrance.",
+            "style_override": null
+        },
+        {
+            "text": "Pepeu ficava pensando (todas as corujas pensam muito): será que uma raposa pegou ele? Será que ele se perdeu? Será que ele não vai voltar?",
+            "description": "A worried 6-year-old owlet with tears in his big round eyes, sitting next to his tiny baby owlet sibling in their tree hollow nest. Both have distinctive owl features: fluffy feathers, heart-shaped faces, and expressive eyes. Thought bubbles show scary scenarios (which should be faded/subtle). The emotional moment is illustrated with soft and tender colors.",
+            "style_override": null
+        },
+        {
+            "text": "Mas, a noite chegou...E o Papai Coruja voltou!",
+            "description": "A father owl (with round glasses, brown feathers, and a tiny tie) flying gracefully through the starlit night sky, his wings spread wide. He's returning to a large tree with a warm, glowing hollow nest. The moon and stars illuminate his distinctive owl features: heart-shaped face, round eyes, and feathered body. The scene is magical and comforting.",
+            "style_override": null
+        },
+        {
+            "text": "E Pepeu e Teteu pularam, dançaram e bateram as asas!",
+            "description": "Two excited owlets - a 6-year-old and a tiny baby - jumping and flapping their little wings joyfully inside their tree hollow nest. Both have big round owl eyes, heart-shaped faces, and fluffy feathers. The joyful moment is bright and lively, with the owlets' feathers slightly ruffled from excitement.",
+            "style_override": null
+        },
+        {
+            "text": "Papai Coruja, Pepeu e Teteu bricaram muito, muito e muito!",
+            "description": "A father owl (with round glasses and brown feathers) playing with his two owlets in their tree hollow: the 6-year-old and baby owlet are flapping their wings excitedly around toys and games. All characters have distinctive owl features: round eyes, heart-shaped faces, and feathered bodies. The scene is dynamic and playful, perfect for a children's book.",
+            "style_override": null
+        },
+        {
+            "text": "E na hora de dormir, Pepeu Coruja falou 'Eu amo o meu Papai!' e Teteu falou 'Papa'. FIM",
+            "description": "Two owlets (a 6-year-old and a tiny baby) nestled together in their tree hollow nest, their father owl (with glasses) and mother owl watching lovingly. All characters have distinct owl features: big round eyes, heart-shaped faces, and soft feathers. The cozy nighttime scene shows moonlight filtering through the nest entrance, creating a magical atmosphere.",
+            "style_override": null
+        }
+    ]
+}
